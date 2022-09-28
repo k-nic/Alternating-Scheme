@@ -7,7 +7,7 @@ import numpy as np
 import tensorflow as tf
 from scipy.stats import logistic
 
-tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
+tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR) 
 
 # In[2]:
 
