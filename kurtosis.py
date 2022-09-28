@@ -7,7 +7,7 @@
 
 import numpy as np
 import tensorflow as tf
-from keras_radam.training import RAdamOptimizer
+from keras_radam.training import RAdamOptimizer 
 
 
 # In[2]:
